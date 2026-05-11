@@ -148,6 +148,4 @@ Feature selection using SelectKBest improved model performance, while the optimi
 
 # Future Improvements
 - Apply ensemble models such as Random Forest and XGBoost
-- Handle class imbalance using SMOTE
-- Deploy the model using Flask or Streamlit
 - Add advanced feature engineering techniques to further improve performance
